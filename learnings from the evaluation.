@@ -1,0 +1,44 @@
+After trying a lot of combination and understanding different combinations here are my learnings:
+1.Longer passwords are stronger
+
+   * Passwords with 12 or more characters are much harder to crack.
+
+2. Mix of character types increases strength
+
+   * Using uppercase, lowercase, numbers, and symbols makes a password more secure.
+
+3.Avoid common words and patterns
+
+   * Passwords like `password123` or `qwerty` are very weak and easily guessed.
+
+4.Passphrases can be strong and easy to remember
+
+   * Example: `GreenTiger!River2025` — long, unique, and meaningful.
+
+5.Don’t reuse passwords on different sites
+
+   * If one gets leaked, all your accounts become vulnerable.
+
+6.Leetspeak doesn’t fool attackers
+
+   * Passwords like `P@ssw0rd!` are still easy for hackers to guess.
+
+7.Randomness is key
+
+   * The more unpredictable your password, the better.
+
+8.Password managers are helpful
+
+   * They create and store complex passwords for every site so you don’t have to remember them all.
+
+9.Regularly update passwords for important accounts
+
+   * Especially after a data breach or suspicious activity.
+
+10.Multi-Factor Authentication (MFA) adds strong extra security
+
+* Even if someone knows your password, they can’t log in without the second factor (like a phone code).
+
+---
+
+
