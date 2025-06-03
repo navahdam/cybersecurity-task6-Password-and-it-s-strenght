@@ -23,7 +23,7 @@ To understand what makes a password strong, test various passwords using online 
 - Longer passwords (12+ characters) are much harder to crack.
 - Combining uppercase, lowercase, numbers, and symbols increases strength.
 - Avoid using real words, common passwords, or patterns.
-- Passphrases (e.g., `Tree!River7Bike`) can be strong and easy to remember.
+- Passphrases (e.g., `Horse$Moon7LaptopTree`) can be strong and easy to remember.
 - Don’t reuse passwords across sites.
 - Use a "password manager" to generate and store secure passwords.
 - Enable "Multi-Factor Authentication (MFA)" wherever possible.
